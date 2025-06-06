@@ -46,7 +46,7 @@ wewantwaste-skipsize/
 1. Clone the repository:
 
 ```bash
-- git clone https://github.com/your-username/wewantwaste-skipsize.git
+- git clone https://github.com/Mandiseli/We-Want-Waste.git
 - cd wewantwaste-skipsize
 
 ## External Dependencies
